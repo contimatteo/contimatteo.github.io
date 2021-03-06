@@ -7,7 +7,7 @@ baseurl: ''
 email: matte.conti@icloud.com
 cover: https://contimatteo.github.io/img/og.png
 logo: https://contimatteo.github.io/img/emojis/technologist.png
-resume: https://contimatteo.github.io/resume.pdf
+resume: "#"
 social:
   - title: email
     url: mailto:matte.conti@icloud.com
