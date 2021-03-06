@@ -1,5 +1,5 @@
 # Portfolio Website
 
-**Theme Credits**
+**Theme Repository**
 
 https://github.com/bchiang7/bchiang7.github.io
