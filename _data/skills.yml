@@ -1,5 +1,5 @@
 languages:
-  - item: JavaScript/TypeScript
+  - item: JavaScript
   - item: HTML/CSS
   - item: PHP
   - item: Python

@@ -1,12 +1,12 @@
 # Site settings
 name: Conti Matteo
-title: Conti Matteo | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
+title: Conti Matteo | Developer & AI Student
+description: Full-Stack developer and Artificial Intelligence student.
 url: https://contimatteo.github.io/
 baseurl: ''
 email: matte.conti@icloud.com
-cover: https://contimatteo.github.io/img/og.png
-logo: https://contimatteo.github.io/img/emojis/technologist.png
+cover: ''
+logo: ''
 resume: "#"
 social:
   - title: email
