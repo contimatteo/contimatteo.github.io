@@ -1,14 +1,20 @@
 - company: Novalab
+  hq: Reggio Emilia, Italy
   url: https://www.novalab.io/
   time: Dec 2018 - Present
   position: Full-Stack Developer
+  description: Javascript, NodeJS, MongoDB, React, Vue.js, Swift, AWS
 
 - company: Multitraccia
+  hq: Reggio Emilia, Italy
   url: http://www.multitraccia.it/
   time: Feb 2018 - Set 2018
   position: Full-Stack Developer
+  description: PHP, Laravel, MySQL
 
 - company: Freelance
+  hq: Reggio Emilia, Italy
   url: "#"
   time: Set 2016 - Dec 2017
   position: Backend Developer
+  description: HTML5/CSS, Javascript, NodeJS, MongoDB, Heroku

@@ -12,7 +12,7 @@
     "start": "gulp serve --watch",
     "build": "gulp build"
   },
-  "author": "Conti Matteo",
+  "author": "Matteo Conti",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.26.7",

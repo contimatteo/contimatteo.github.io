@@ -1,26 +1,35 @@
 languages:
   - item: JavaScript
-  - item: HTML/CSS
   - item: PHP
   - item: Python
-  - item: SQL
   - item: Swift
 
 frameworks:
   - item: Laravel
-  - item: Node
+  - item: Node.js
   - item: React
   - item: Vue.js
 
-tools:
-  - item: AWS
-  - item: Git
+database:
+  - item: MySQL
   - item: MongoDB
+  - item: DynamoDB
+  - item: 
+
+cloud:
+  - item: AWS
+  - item: Heroku
+  - item: 
+  - item: 
+
+libraries:
+  - item: Pandas
   - item: Scikit-Learn
+  - item: Tensorflow
+  - item: Keras
 
 research:
   - item: Augmented Reality
-  - item: Deep Reinforcement Learning
+  - item: Reinforcement Learning
   - item: Machine Learning
   - item: Microservices
-  - item: Natural Language Processing

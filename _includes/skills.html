@@ -1,7 +1,9 @@
 <section class="section skills">
   <div class="section__title">Skills</div>
   <div class="section__content">
-    <!-- <p>I’ve picked up quite a few skills during the course of my three co-ops, and aim to improve these skills everyday. Here are a few of the technologies that I have experience with:</p> -->
+    <!-- <p>I’ve picked up quite a few skills during the course of my three co-ops, 
+    and aim to improve these skills everyday. Here are a few of the technologies 
+    that I have experience with:</p> -->
     <div class="skillz">
       <div class="skillz__category">
         <div class="skillz__category__label">Languages</div>
@@ -20,20 +22,48 @@
         </ul>
       </div>
       <div class="skillz__category">
-        <div class="skillz__category__label">Tools</div>
+        <div class="skillz__category__label">Database</div>
         <ul>
-          {% for tool in site.data.skills.tools %}
+          {% for tool in site.data.skills.database %}
           <li class="skillz__category__item">{{tool.item}}</li>
           {% endfor %}
         </ul>
       </div>
       <div class="skillz__category">
-        <div class="skillz__category__label">Research</div>
+        <div class="skillz__category__label">Cloud</div>
+        <ul>
+          {% for thing in site.data.skills.cloud %}
+          <li class="skillz__category__item">{{thing.item}}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+    <br/>
+    <br/>
+    <div class="skillz">
+      <div class="skillz__category">
+        <div class="skillz__category__label">Libraries</div>
+        <ul>
+          {% for thing in site.data.skills.libraries %}
+          <li class="skillz__category__item">{{thing.item}}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="skillz__category">
+        <div class="skillz__category__label">Researches</div>
         <ul>
           {% for thing in site.data.skills.research %}
           <li class="skillz__category__item">{{thing.item}}</li>
           {% endfor %}
         </ul>
+      </div>
+      <div class="skillz__category">
+        <div class="skillz__category__label">&nbsp;</div>
+        <ul style="width: 25px;"></ul>
+      </div>
+      <div class="skillz__category">
+        <div class="skillz__category__label">&nbsp;</div>
+        <ul style="width: 25px;"></ul>
       </div>
     </div>
   </div>
